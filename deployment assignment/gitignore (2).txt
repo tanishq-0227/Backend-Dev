@@ -1,0 +1,14 @@
+node_modules/
+
+# Local-only secrets (examples are committed as templates)
+.env
+
+# Logs / audit artifacts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+audit/deployments.log
+
+# OS
+.DS_Store
+Thumbs.db
